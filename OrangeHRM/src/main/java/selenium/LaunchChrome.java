@@ -16,6 +16,5 @@ public class LaunchChrome {
 	public static void main(String[] args) {
 		LaunchChrome lc=new LaunchChrome();
 		lc.test();
-lc.test();
 	}  
-}AASRFS
+}
